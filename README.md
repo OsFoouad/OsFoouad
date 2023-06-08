@@ -1,15 +1,8 @@
 <h1 align="center">Hi 👋, I'm Osama Fouad</h1>
-<h3 align="center">Software Engineer</h3>
-
-- 🔭 I’m currently working on [Chess App - for android](https://github.com/OsFoouad/ChessGame)
-
-- 🌱 I’m currently learning Swift and GoLang **Still beginner**
-
-- 🌱 I’m currently learning AI **Still beginner**
-
-- 🌱 I’m currently learning Android Development **Kotlin and flutter**
-
-- 👨‍💻 All of my projects are available at [https://github.com/OsFoouad/](https://github.com/OsFoouad/)
+<br>
+<h5 align="center">Software Engineer</h5>
+<br>
+- 👨‍💻 All of my projects are available at [https://OsFoouad.github.io](https://OsFoouad.github.io)
 
 - 📫 How to reach me **OsFoouad@gmail.com**
 
