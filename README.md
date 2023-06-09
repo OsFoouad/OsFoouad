@@ -7,7 +7,7 @@
 
 
 # 💫 About Me:
-"i'm an android developer , i have a BSC in Computer Science and Engineering, i have ability to work as cross-plat form with flutter framework,and native with Kotlin language,i can build  UI with 'xml' or 'Jetpack Compose' also able to code in python, C# and some other languages and frameworks i know SOLID principles, design pattern , design archtecture patterns , OOP and also know about clean code rules have  the knowledge of Database types 'ROOM, SQLite and API finally , I'm Still learning 💜"
+"i'm an android developer , i have a BSC in Computer Science and Engineering, i have ability to work as cross-plat form with flutter framework,and native with Kotlin language,i can build  UI with 'xml' or 'Jetpack Compose' also able to code in python, C# and some other languages and frameworks i know SOLID principles, design pattern , design archtecture patterns , OOP and also know about clean code rules have  the knowledge of Database types 'ROOM, SQLite and API  i always track technology news   💜"
 
 
 ## 🌐 Socials:
