@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Osama Fouad</h1>
 <h5 align="center">Software Engineer</h5>
 <br>
-- 👨‍💻 All of my projects are available at [https://OsFoouad.github.io](https://OsFoouad.github.io)
+- 👨‍💻 All of my projects are available at https://OsFoouad.github.io
 
 - 📫 How to reach me **OsFoouad@gmail.com**
 
